@@ -1,0 +1,5 @@
+Variables: son datos que pueden tomar distintos valores
+String: es una cadena de caracteres definida
+Funciones: calculan a traves del codigo los parametros que se asignan para llegar a un resultado
+Declaraciones if: se usan para valores condicionantes, si se cumple una condicion entonces hace algo, si no se cumple hace otra cosa
+Valores booleanos: son para determinar si un valor es verdadero o falso.
